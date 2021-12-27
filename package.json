@@ -1,0 +1,18 @@
+{
+  "name": "sky-deploy",
+  "version": "1.0.2",
+  "description": "帮助您快速一键发布代码，只要有ftp账号即可",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "代码自动发布"
+  ],
+  "author": "sky",
+  "license": "ISC",
+  "dependencies": {
+    "ftp": "^0.3.10",
+    "single-line-log": "^1.1.2"
+  }
+}
